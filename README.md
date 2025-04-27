@@ -2,6 +2,7 @@
 # Network NETCONF Loopback Automation (Python | Cisco Network Automation)
 
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue) 
+![CI](https://github.com/GabrielNetSec/Python-Network-Automation/actions/workflows/ci.yml/badge.svg)
 ![Portfolio Project](https://img.shields.io/badge/portfolio-public-brightgreen) 
 ![Cisco Network Automation](https://img.shields.io/badge/cisco-network--automation-blue)
 
