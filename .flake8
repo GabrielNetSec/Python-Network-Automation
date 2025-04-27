@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 120      # ancho permitido
+extend-ignore = E302,E305  # ignora reglas de líneas en blanco
+exclude = venv,__pycache__,.git,tests
