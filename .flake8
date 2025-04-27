@@ -1,5 +1,8 @@
 [flake8]
-max-line-length = 120       # o 160 si prefieres
-extend-ignore = E302,E305,E501
-exclude = venv,__pycache__,.git,tests
+# Máximo largo de línea permitido
+max-line-length = 120
 
+# Ignorar reglas de líneas en blanco y longitud
+extend-ignore = E302,E305,E501
+
+exclude = venv,__pycache__,.git,tests
